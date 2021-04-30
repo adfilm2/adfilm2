@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adfilm2&hide=contribs,stars&show_icons=true)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adfilm2&hide=contribs,stars&show_icons=true)
 
 <!--
 **adfilm2/adfilm2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
